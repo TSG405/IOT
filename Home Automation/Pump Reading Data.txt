@@ -1,0 +1,84 @@
+#   Serial  Monitoring  in  ADRUINO IDE   #
+
+-------------------------------------------------------------------------------------------------
+
+11:27:18.550 -> Current water level in cm: 6.17
+11:27:22.060 -> Current water level in cm: 5.76
+11:27:25.532 -> Current water level in cm: 5.29
+11:27:29.041 -> Current water level in cm: 5.75
+11:27:32.564 -> Current water level in cm: 5.80
+11:27:36.050 -> Current water level in cm: 8.30
+11:27:39.583 -> Current water level in cm: 10.73
+11:27:43.088 -> Current water level in cm: 14.33
+11:27:46.603 -> Current water level in cm: 16.06
+11:27:50.090 -> Current water level in cm: 17.34
+11:27:53.600 -> Current water level in cm: 22.42
+11:27:57.097 -> Current water level in cm: 26.44
+11:28:00.598 -> Current water level in cm: 28.56
+11:28:04.097 -> Water level LOW, start pump
+11:28:04.144 -> Current water level in cm: 30.46
+11:28:07.600 -> Water level LOW, start pump
+11:28:07.644 -> Current water level in cm: 31.06
+11:28:11.135 -> Water level LOW, start pump
+11:28:11.135 -> Current water level in cm: 30.65
+11:28:14.655 -> Water level LOW, start pump
+11:28:14.655 -> Current water level in cm: 30.63
+11:28:18.162 -> Water level LOW, start pump
+11:28:18.162 -> Current water level in cm: 30.69
+11:28:21.651 -> Water level LOW, start pump
+11:28:21.693 -> Current water level in cm: 30.65
+11:28:25.138 -> Water level LOW, start pump
+11:28:25.176 -> Current water level in cm: 30.70
+11:28:28.657 -> Water level LOW, start pump
+11:28:28.692 -> Current water level in cm: 30.70
+11:28:32.187 -> Water level LOW, start pump
+11:28:32.187 -> Current water level in cm: 30.69
+11:28:35.659 -> Water level LOW, start pump
+11:28:35.708 -> Current water level in cm: 30.75
+11:28:39.161 -> Water level LOW, start pump
+11:28:39.208 -> Current water level in cm: 30.74
+11:28:42.698 -> Water level LOW, start pump
+11:28:42.698 -> Current water level in cm: 30.75
+11:28:46.212 -> Water level LOW, start pump
+11:28:46.212 -> Current water level in cm: 31.16
+11:28:49.688 -> Water level LOW, start pump
+11:28:49.723 -> Current water level in cm: 30.80
+11:28:53.203 -> Water level LOW, start pump
+11:28:53.241 -> Current water level in cm: 30.80
+11:28:56.709 -> Water level LOW, start pump
+11:28:56.758 -> Current water level in cm: 30.79
+11:29:00.223 -> Water level LOW, start pump
+11:29:00.271 -> Current water level in cm: 30.80
+11:29:03.719 -> Water level LOW, start pump
+11:29:03.754 -> Current water level in cm: 30.80
+11:29:07.224 -> Water level LOW, start pump
+11:29:07.275 -> Current water level in cm: 30.80
+11:29:10.740 -> Water level LOW, start pump
+11:29:10.773 -> Current water level in cm: 30.80
+11:29:14.255 -> Water level LOW, start pump
+11:29:14.290 -> Current water level in cm: 30.80
+11:29:17.770 -> Water level LOW, start pump
+11:29:17.770 -> Current water level in cm: 30.80
+11:29:21.244 -> Water level LOW, start pump
+11:29:21.290 -> Current water level in cm: 30.80
+11:29:24.753 -> Water level LOW, start pump
+11:29:24.790 -> Current water level in cm: 30.09
+11:29:28.300 -> Water level LOW, start pump
+11:29:28.300 -> Current water level in cm: 30.26
+11:29:31.783 -> Current water level in cm: 29.84
+11:29:35.287 -> Water level LOW, start pump
+11:29:35.339 -> Current water level in cm: 30.36
+11:29:38.790 -> Current water level in cm: 29.84
+11:29:42.320 -> Current water level in cm: 29.99
+11:29:45.805 -> Current water level in cm: 26.33
+11:29:49.314 -> Current water level in cm: 22.83
+11:29:52.807 -> Current water level in cm: 22.37
+11:29:56.346 -> Current water level in cm: 17.09
+11:29:59.816 -> Current water level in cm: 12.82
+11:30:03.346 -> Current water level in cm: 8.25
+11:30:06.829 -> Water level HIGH, stop pump
+11:30:06.871 -> Current water level in cm: 4.62
+11:30:10.350 -> Water level HIGH, stop pump
+11:30:10.384 -> Current water level in cm: 4.47
+
+------------------------------------------------------------------------------------------
