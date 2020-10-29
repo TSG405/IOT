@@ -1,4 +1,4 @@
-# Arduino Code ( requires Adruino UNO, HC-SR04 Ultrasonic Sensor, Single channel Relay Module [5V-DC], LED Bulb )
+// # Arduino Code ( requires Adruino UNO, HC-SR04 Ultrasonic Sensor, Single channel Relay Module [5V-DC], LED Bulb )
 
 
 const int trigPin = 4;
