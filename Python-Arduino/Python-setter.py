@@ -26,6 +26,8 @@ while (True):
         print ("--- LED IS OFF NOW ---")
         print ("PRESS 405 to exit!!")
         
+    else:
+        print(" Invalid Input! Sorry! ")
                 
 '''
 CODED BY TSG405
