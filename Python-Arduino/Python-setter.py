@@ -12,6 +12,7 @@ while (True):
     print ( "USER Entered... ", input_data )     
     
     if (input_data == '405'):                      # Exit Condition
+        Arduino_Serial.write( '405'.encode() )
         print ("--- Thank You ---")
         print ("--- ! BYE ! ---")
         break;
