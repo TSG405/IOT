@@ -23,7 +23,10 @@ void loop()
         digitalWrite (led, HIGH);
      
      else if (value == '0')           // CONDITION TWO(2)
-        digitalWrite (led, LOW);       
+        digitalWrite (led, LOW); 
+   
+     else
+        digitalWrite (led, LOW);      
    }
 
 
